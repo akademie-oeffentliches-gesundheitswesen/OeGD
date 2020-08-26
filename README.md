@@ -1,15 +1,15 @@
 # Impressum
 
-<p>Begutachtung im Öffentlichen Gesundheitsdienst<br/>
+<p>Der Öffentliche Gesundheitsdienst<br/>
 Lehrbuch für den Öffentlichen Gesundheitsdienst<br/>
-ISBN 978-3-9812871-5-8<br/>
-DOI <a href="https://doi.org/10.25815/wfp2-y114" title="https://doi.org/10.25815/wfp2-y114">10.25815/wfp2-y114</a><br/>
+ISBN 978-3-9812871-3-4<br/>
+DOI <a href="https://doi.org/10.25815/ktyx-9264" title="https://doi.org/10.25815/ktyx-9264">10.25815/ktyx-9264</a><br/>
 Datum 2020<br/>
 Ort Berlin</p>
 
-Webseite: (under construction) <a href="https://akademie-oeffentliches-gesundheitswesen.github.io/Gutachten/" title="https://akademie-oeffentliches-gesundheitswesen.github.io/Gutachten/">https://akademie-oeffentliches-gesundheitswesen.github.io/Gutachten/</a> | [PDF](https://akademie-oeffentliches-gesundheitswesen.github.io/Gutachten/screen-pdf/gutachten-v1.pdf) | Print-on-demand (add link)
+Webseite: (under construction) <a href="https://akademie-oeffentliches-gesundheitswesen.github.io/OeGD/" title="https://akademie-oeffentliches-gesundheitswesen.github.io/OeGD/">https://akademie-oeffentliches-gesundheitswesen.github.io/OeGD/</a> | [PDF](https://akademie-oeffentliches-gesundheitswesen.github.io/OeGD/screen-pdf/oegd-v1.pdf) | Print-on-demand (add link)
 
-Temp links (to be removed) [webbuch](https://akademie-oeffentliches-gesundheitswesen.github.io/Gutachten/webbuch/index.html#src=gutachten/gut-v1.xhtml&bookMode=true) | [PDF](https://akademie-oeffentliches-gesundheitswesen.github.io/Gutachten/screen-pdf/gutachten-v1.pdf)
+Temp links (to be removed) [webbuch](https://akademie-oeffentliches-gesundheitswesen.github.io/OeGD/webbuch/index.html#src=oegd/oegd-v1.xhtml&bookMode=true) | [PDF](https://akademie-oeffentliches-gesundheitswesen.github.io/OeGD/screen-pdf/oegd-v1.pdf)
 
 # Über das Lehrbuch
 
