@@ -9,7 +9,7 @@ Ort Berlin</p>
 
 Webseite: (under construction) <a href="https://akademie-oeffentliches-gesundheitswesen.github.io/OeGD/" title="https://akademie-oeffentliches-gesundheitswesen.github.io/OeGD/">https://akademie-oeffentliches-gesundheitswesen.github.io/OeGD/</a> | [PDF](https://akademie-oeffentliches-gesundheitswesen.github.io/OeGD/screen-pdf/oegd-v1.pdf) | Print-on-demand (add link)
 
-Temp links (to be removed) [webbuch](https://akademie-oeffentliches-gesundheitswesen.github.io/OeGD/webbuch/index.html#src=oegd/oegd-v1.xhtml&bookMode=true) | [PDF](https://akademie-oeffentliches-gesundheitswesen.github.io/OeGD/screen-pdf/oegd-v1.pdf)
+Temp links (to be removed) [webbuch](https://akademie-oeffentliches-gesundheitswesen.github.io/OeGD/webbuch/index.html#src=oegd/oegd.xhtml&bookMode=true) | [PDF](https://akademie-oeffentliches-gesundheitswesen.github.io/OeGD/screen-pdf/oegd-v1.pdf)
 
 # Über das Lehrbuch
 
