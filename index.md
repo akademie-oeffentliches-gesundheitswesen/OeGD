@@ -1,21 +1,12 @@
 ---
 layout: page
-title: 00Startseite
+title: Startseite
 nav_order: 1
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+
+![Der Öffentliche Gesundheitsdienst Buch](images/cover.png "Der Öffentliche Gesundheitsdienst Buch"){:.imgcover}
+*Der Öffentliche Gesundheitsdienst - Lehrbuch für den Öffentlichen Gesundheitsdienst*
+
 In dem vorliegenden **Lehrbuch** für angehende und fertige
 **Fachärzte/innen für Öffentliches Gesundheitswese**n werden **wichtige
 Bereiche der Öffentlichen Gesundheit** beschrieben. Das Lehrbuch soll
@@ -41,7 +32,3 @@ Institutionen oder einzelner Autoren/innen.**
 Es wird zukünftig aktualisiert und erweitert werden. Wir freuen uns
 daher, wenn Sie uns Ihre Anregungen, Kommentare und Ergänzungen
 mitteilen. Schicken Sie diese bitte an **Lehrbuch@akademie-oegw.de**
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>
