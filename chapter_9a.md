@@ -4,13 +4,9 @@ title: Literaturverzeichnis
 nav_order: 10
 ---
 
-
-
-
 # Literaturverzeichnis
 
-
-  <div class="article-part article-richtext article-body">
+<div class="article-part article-richtext article-body">
 <h2 id="_5juovpky2">Kooperationslandschaft</h2>
 <p>Verband der Privaten Krankenversicherungen. 2017. “Allgemeine Versicherungsbedingungen Für Den Notlagentarif.” 2017. https://www.pkv.de/service/broschueren/musterbedingungen/avb-nlt-2013/.</p>
 
