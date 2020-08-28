@@ -18,7 +18,7 @@ Ort Berlin</p>
 ## Kontaktangaben
 
 <p>Akademie für Öffentliches Gesundheitswesen in Düsseldorf<br>Kanzlerstr. 4<br>40472 Düsseldorf</p>
-<p>Telefon: +49 (0) 211 - 310 96 10<br><a href="https://www.akademie-oegw.de" title="https://www.akademie-oegw.de">www.akademie-oegw.de</a>&nbsp;</p>
+<p>Telefon: +49 (0) 211 - 310 96 10<br><a href="https://www.akademie-oegw.de" title="https://www.akademie-oegw.de">www.akademie-oegw.de</a></p>
 <p>Steuernummer: 106/5773/0023</p>
 <p>Die Akademie für Öffentliches Gesundheitswesen in Düsseldorf ist eine rechtsfähige Anstalt des öffentlichen Rechts. Gesetzlich vertreten durch die Direktorin Dr. med. Ute Teichert, MPH</p>
 
