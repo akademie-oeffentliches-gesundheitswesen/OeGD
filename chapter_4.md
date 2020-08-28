@@ -467,7 +467,7 @@ Deutschland”. Darin berichtet sie zu Strukturen, Entwicklungen und
 globalen Herausforderungen im Bereich Öffentliche Gesundheit.
 <span class="citation">(Leopoldina Nationale Akademie der
 Wissenschaften, Acatech Deutsche Akademie der Technikwissenschaften, and
-Union der Deutschen Akademien der Wissenschaften 2015)</span> ******
+Union der Deutschen Akademien der Wissenschaften 2015)</span>
 
 Die Stellungnahme führte zu einer Wiederbelebung der Diskussion um
 Aufbau und Inhalte von Öffentlicher Gesundheit unter Akademikern/innen
