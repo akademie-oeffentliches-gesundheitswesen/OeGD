@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 04. Aufgaben
+title: Aufgaben
 nav_order: 5
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 So vielfältig die Aufgaben der kommunalen Gesundheitsämter sind, so
 vielfältig ist auch das Aufgabenspektrum des ÖGD insgesamt. Es umfasst
 sowohl bevölkerungsmedizinische, gruppenspezifische als auch
@@ -938,9 +938,3 @@ heißt die Beaufsichtigung und Überwachung der im Gesundheitswesen
 tätigen Personen und Einrichtungen, die Apothekenaufsicht und die
 fachliche Mitwirkung bei Bauplanungen sowie das Mitwirken beim
 Katastrophenschutz.
-
-# Literaturverzeichnis
-
-<div class="csl-bib-body">
-
-</div>

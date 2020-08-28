@@ -3,19 +3,10 @@ layout: page
 title: Annex-Abkürzungen
 nav_order: 8
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+
+
+
+
 **AAR** After Action Reviews
 
 **ART** Kommission Antiinfektiva, Resistenz und Therapie
@@ -165,7 +156,3 @@ transmitted infections)
 **WHO** Weltgesundheitsorganisation (engl. World Health Organisation)
 
 **ZÄD** Zahnärztlicher Dienst
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

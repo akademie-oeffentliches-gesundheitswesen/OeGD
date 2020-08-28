@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 06. Rechtsnormen
+title: Rechtsnormen
 nav_order: 7
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 ## Ärztliche Rolle in der Exekutive
 
 Für die meisten Ärztinnen und Ärzte, die beginnen in einer Behörde im
@@ -214,7 +214,7 @@ Dazu ist im Grundgesetz der Bundesrepublik Deutschland festgelegt:
 
 > *„Die Bundesrepublik Deutschland ist ein demokratischer und sozialer
 > Bundesstaat. “ (Art 20, Abs 1 Grundgesetz) und*
-> 
+>
 > *„Die verfassungsmäßige Ordnung in den Ländern muß den Grundsätzen des
 > republikanischen, demokratischen und sozialen Rechtsstaates im Sinne
 > dieses Grundgesetzes entsprechen.“ (Art 28, Abs 1 Grundgesetz).*
@@ -558,9 +558,3 @@ Koch-Institut 2016)</span>:
 
 10. Förderung der Forschung im Bereich der öffentlichen Gesundheit
     zwecks Anwendung in Politik und Praxis
-
-# Literaturverzeichnis
-
-<div class="csl-bib-body">
-
-</div>

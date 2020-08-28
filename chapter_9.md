@@ -3,19 +3,19 @@ layout: page
 title: Annex-Websites
 nav_order: 9
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 ## **Websites**
 
 **Bernhard-Nocht-Institut für Tropenmedizin (BNITM).**
@@ -228,7 +228,7 @@ Rheinland-Pfalz und Saarland (KHPI).**
 **Ministerium für Arbeit, Gesundheit und Soziales.**
 <https://www.mags.nrw> 
 
-## **Rheinland-Pfalz**
+### **Rheinland-Pfalz**
 
 **Landesuntersuchungsamt (LUA).** <https://lua.rlp.de>
 
@@ -268,7 +268,3 @@ Rheinland-Pfalz und Saarland (KHPI).**
 
 **Ministerium für Arbeit, Soziales, Gesundheit, Frauen und Familie.**
 <https://www.tmasgff.de/>
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

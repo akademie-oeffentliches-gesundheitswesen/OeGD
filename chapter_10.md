@@ -1,21 +1,10 @@
 ---
 layout: page
 title: a. Beteiligte
-nav_order: 10
+nav_order: 11
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+
+
 ## Autoren/innen
 
 **Dr. med. Maike Benson**
@@ -84,7 +73,3 @@ Projekt nicht möglich gewesen.
 
 **Dr. med. Ute Teichert** für den Enthusiasmus und die tatkräftige
 Unterstützung des Projektes.
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

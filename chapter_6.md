@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 05. Aufbau
+title: Aufbau
 nav_order: 6
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 Der Öffentliche Gesundheitsdienst (ÖGD) hat einen vielschichtigen
 Aufbau. Globale, europäische, nationale, föderale, regionale und
 kommunale Institutionen, Gremien und Netzwerke beeinflussen dabei die
@@ -879,9 +879,3 @@ Aus der Natur des öffentlichen Gesundheitsdienstes ergibt sich, dass
 Gesundheitsämter oft in Netzwerke und Kooperationsverbünde eingebunden
 sind. Dabei gibt es einen unterschiedlichen Grad an gegenseitiger
 Verpflichtung.
-
-# Literaturverzeichnis
-
-<div class="csl-bib-body">
-
-</div>

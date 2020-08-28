@@ -1,24 +1,23 @@
 ---
 layout: page
-title: 01. Grundlagen
+title: Grundlagen
 nav_order: 2
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
 > > *Gesundheit ist nicht alles, aber ohne Gesundheit ist alles nichts.*
 > > (Arthur Schopenhauer)
-> > 
+> >
 > > *Gesundheit ist ein Zustand vollkommenen körperlichen, geistigen und
 > > sozialen Wohlbefindens und nicht allein das Fehlen von Krankheit und
 > > Gebrechen.* (Weltgesundheitsorganisation)
@@ -532,10 +531,7 @@ Fachärzte/innen für Öffentliches Gesundheitswesen (Stand 10. Mai 2019).
 <span class="citation">(Gesundheitsberichterstattung des Bundes
 2019)</span>
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Anzahl tätiger Fachärztinnen und Fachärzte für Öffentliches Gesundheitswesen (Quelle: Bundesärztekammer)">Anzahl
-tätiger Fachärztinnen und Fachärzte für Öffentliches Gesundheitswesen
-(Quelle:
-Bundesärztekammer)</span>](b9787139-90f7-4687-8028-1e9fbb0c7e2d.png)
+{% include image.html url="images/b9787139-90f7-4687-8028-1e9fbb0c7e2d.png" description="Abbildung 1: Anzahl tätiger Fachärztinnen und Fachärzte für Öffentliches Gesundheitswesen (Quelle: Bundesärztekammer)" %}
 
 Die Zahl der im ÖGD der Kommunen, der Länder oder des Bundes tätigen
 Ärztinnen und Ärzte sinkt seit Jahren kontinuierlich. Nur ca. 400
@@ -563,9 +559,3 @@ wissenschaftliche Auswertungen.
 Aus Sicht der Gesundheitsämter hat sich die kommunale GBE als
 Planungsgrundlage für eine effektive und zielgerichtete Ausrichtung der
 Angebote des ÖGD bewährt.
-
-# Literaturverzeichnis
-
-<div class="csl-bib-body">
-
-</div>

@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 02. Begriffsbestimmungen
+title: Begriffsbestimmungen
 nav_order: 3
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 In Deutschland werden die Begriffe **Öffentliche Gesundheit (engl.
 Public Health)**, Bevölkerungsgesundheit, Bevölkerungsmedizin oder
 Sozialmedizin oft synonym verwendet. Allerdings beinhalten diese zum
@@ -398,11 +398,3 @@ In vielen Handlungsbereichen kann der ÖGD Einfluss auf die Förderung der
 planetaren Gesundheit nehmen (z.B. klimafreundliche Mobilitätsförderung)
 und muss auf der anderen Seite Wege finden, die Folgen des Klimawandels
 für die Öffentliche Gesundheit abzumildern (z.B. Hitzeschutzpläne).
-
------
-
-# Literaturverzeichnis
-
-<div class="csl-bib-body">
-
-</div>

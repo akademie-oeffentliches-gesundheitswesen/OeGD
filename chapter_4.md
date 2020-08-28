@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 03. Geschichte
+title: Geschichte
 nav_order: 4
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 ## Der Weg zum ÖGD
 
 Menschliche Anstrengungen zur Abwehr ansteckender Erkrankungen reichen
@@ -24,27 +24,27 @@ Testaments, dessen Entstehung auf etwa 1500 v.Chr. datiert wird, wird
 der Umgang mit sog. Aussätzigen beschrieben (13. Kapitel):
 
 > *„Und der HERR redete mit Mose und Aaron und sprach:*
-> 
+>
 > *2 Wenn bei einem Menschen an seiner Haut eine Erhöhung oder ein
 > Ausschlag oder ein weißer Flecken entsteht und zu einer aussätzigen
 > Stelle an der Haut wird, soll man ihn zum Priester Aaron führen oder
 > zu einem seiner Söhne, den Priestern.*
-> 
+>
 > *3 Und wenn der Priester die Stelle an der Haut sieht, dass die Haare
 > dort weiß geworden sind und die Stelle tiefer ist als die übrige Haut,
 > so ist es Aussatz. Wenn der Priester das an ihm sieht, soll er ihn für
 > unrein erklären.*
-> 
+>
 > *4 Wenn aber ein weißer Flecken an seiner Haut ist und doch die Stelle
 > nicht tiefer anzusehen ist als die übrige Haut und die Haare nicht
 > weiß geworden sind, so soll der Priester den Kranken einschließen
 > sieben Tage*
-> 
+>
 > *5 und am siebenten Tage besehen. Sieht er aber, dass die Stelle
 > geblieben ist, wie er sie zuvor gesehen hat, und hat nicht
 > weitergefressen auf der Haut, so soll ihn der Priester abermals sieben
 > Tage einschließen.*
-> 
+>
 > *6 Und wenn er ihn erneut nach sieben Tagen besieht und findet, dass
 > die Stelle blass geworden ist und nicht weitergefressen hat auf der
 > Haut, so soll er ihn für rein erklären; denn es ist nur ein Ausschlag.
@@ -156,9 +156,9 @@ kaiserliche Botschaft:
 
 > *„Wir Wilhelm, von Gottes Gnaden Deutscher Kaiser, König von Preußen
 > etc., thun kund und fügen hiermit zu wissen:*
-> 
+>
 > *\[ . . . \]*
-> 
+>
 > *Schon im Februar dieses Jahres haben Wir Unsere Überzeugung
 > aussprechen lassen, daß die Heilung der sozialen Schäden nicht
 > ausschließlich im Wege der Repression sozialdemokratischer
@@ -486,9 +486,3 @@ Zukunftsforums Public Health sind einerseits eine bessere Vernetzung und
 Kommunikation von Theoretikern/innen und Praktikern/innen zum Thema
 Öffentliche Gesundheit in Deutschland, sowie die Ent­wick­lung einer
 Public-Health-Strate­gie für Deut­sch­land.
-
-# Literaturverzeichnis
-
-<div class="csl-bib-body">
-
-</div>

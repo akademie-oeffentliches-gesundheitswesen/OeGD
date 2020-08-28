@@ -1,21 +1,21 @@
 ---
 layout: page
 title: c. Impressum
-nav_order: 12
+nav_order: 13
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+
+<p>Der Öffentliche Gesundheitsdienst<br/>
+Lehrbuch für den Öffentlichen Gesundheitsdienst<br/>
+ISBN 978-3-9812871-3-4<br/>
+DOI <a href="https://doi.org/10.25815/ktyx-9264" title="https://doi.org/10.25815/ktyx-9264">10.25815/ktyx-9264</a><br/>
+Datum 2020<br/>
+Ort Berlin</p>
+<p>&#160;</p>
+<p>© 2020 die Autoren. Creative Commons: Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0) <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">https://creativecommons.org/licenses/by-sa/4.0/deed.de</a></p>
+<p>&#160;</p>
+<p>Drucken Lightning Source, Ingram Content Group Inc.</p>
+
+
 ## **Kontaktangaben**
 
 Akademie für Öffentliches Gesundheitswesen in Düsseldorf
@@ -92,7 +92,3 @@ waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente
 inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete
 Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden
 von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>
