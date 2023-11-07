@@ -3,7 +3,7 @@
 <p>Der Öffentliche Gesundheitsdienst<br/>
 Lehrbuch für den Öffentlichen Gesundheitsdienst<br/>
 ISBN 978-3-9812871-3-4<br/>
-DOI <a href="https://doi.org/10.25815/ktyx-9264" title="https://doi.org/10.25815/ktyx-9264">10.25815/ktyx-9264</a><br/>
+DOI <a href="https://doi.org/10.61163/ktyx-9264" title="https://doi.org/10.61163/ktyx-9264">10.25815/ktyx-9264</a><br/>
 Datum 2020<br/>
 Ort Berlin</p>
 
